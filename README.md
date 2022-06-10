@@ -31,12 +31,12 @@ This project is a full stack MERN Social media App called Memry. Turn your favor
 This project follows the instruction of JS Mastery Pro. You can find the Git repo <a href="https://github.com/adrianhajdin/project_mern_memories">here.</a>
 In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-### Deployment
+### Clone this project
+<ol>
+  <li>Open in your editor and open 2 terminals for server & client directories.</li>
+  <li>Run `npm install` in each terminal to download necessary dependencies.</li>
+  <li>Run the command `npm start` in each terminal to deploy the app locally.</li>
+</ol>
 
 ### Issues 
 
