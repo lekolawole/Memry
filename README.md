@@ -2,6 +2,9 @@
 
 This project is a full stack MERN Social media App called Memry. Turn your favorite memories into a Memry!
 
+<img src="https://github.com/lekolawole/Memry/blob/78dcee152fcf7a143e2459c8de1fb8001b0ff647/client/public/memry-homepage.png" alt="homepage" width="800"/>
+
+Check out a demo <a href="https://github.com/lekolawole/Memry/blob/78dcee152fcf7a143e2459c8de1fb8001b0ff647/client/public/Memry-demo.mp4">here</a>
 ## Key Features
 
 <ul>
