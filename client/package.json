@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://lekolawole.github.io/Memry",
-  "entry": "build/static/index/html",
+  "entry": "build/index.html",
   "proxy": "http://localhost:5000",
   "dependencies": {
     "@material-ui/core": "^4.9.10",
