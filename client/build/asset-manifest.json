@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Memry/static/css/main.eb88eb82.chunk.css",
+    "main.js": "/Memry/static/js/main.9d427066.chunk.js",
+    "main.js.map": "/Memry/static/js/main.9d427066.chunk.js.map",
+    "runtime-main.js": "/Memry/static/js/runtime-main.c3145aac.js",
+    "runtime-main.js.map": "/Memry/static/js/runtime-main.c3145aac.js.map",
+    "static/js/2.6a8798bd.chunk.js": "/Memry/static/js/2.6a8798bd.chunk.js",
+    "static/js/2.6a8798bd.chunk.js.map": "/Memry/static/js/2.6a8798bd.chunk.js.map",
+    "index.html": "/Memry/index.html",
+    "precache-manifest.76c13ff352cfaff57f2ab91fd6539f5e.js": "/Memry/precache-manifest.76c13ff352cfaff57f2ab91fd6539f5e.js",
+    "service-worker.js": "/Memry/service-worker.js",
+    "static/css/main.eb88eb82.chunk.css.map": "/Memry/static/css/main.eb88eb82.chunk.css.map",
+    "static/js/2.6a8798bd.chunk.js.LICENSE.txt": "/Memry/static/js/2.6a8798bd.chunk.js.LICENSE.txt",
+    "static/js/main.9d427066.chunk.js.LICENSE.txt": "/Memry/static/js/main.9d427066.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/Memry/static/media/logo.4e20a7b7.png",
+    "static/media/text.png": "/Memry/static/media/text.77cb996c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3145aac.js",
+    "static/js/2.6a8798bd.chunk.js",
+    "static/css/main.eb88eb82.chunk.css",
+    "static/js/main.9d427066.chunk.js"
+  ]
+}
