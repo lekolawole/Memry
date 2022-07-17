@@ -3,6 +3,10 @@
 This project is a full stack MERN Social media App called Memry. Turn your favorite memories into a Memry!
 
 <img src="https://github.com/lekolawole/Memry/blob/78dcee152fcf7a143e2459c8de1fb8001b0ff647/client/public/memry-homepage.png" alt="homepage" width="800"/>
+
+## Objective 
+The objective of this project was to build a social media app that allows users to share, like, and comment on photos. The app was developed using React for both server and client side, with MongoDB for cloud storage of user data & Google Authenication.
+
 ## Key Features
 
 <ul>
@@ -26,6 +30,7 @@ This project is a full stack MERN Social media App called Memry. Turn your favor
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
+ </ul>
 
 ## Copy this project 
 
@@ -33,11 +38,10 @@ This project follows the instruction of JS Mastery Pro. You can find the Git rep
 In the project directory, you can run:
 
 ### Clone this project
-<ol>
-  <li>Open in your editor and open 2 terminals for server & client directories.</li>
-  <li>Run `npm install` in each terminal to download necessary dependencies.</li>
-  <li>Run the command `npm start` in each terminal to deploy the app locally.</li>
-</ol>
+
+1. In your code editor, open 2 terminals for server & client directories.
+2. Run ```npm install``` in each terminal to download necessary dependencies.
+3. Run the command ```npm start``` in each terminal to deploy the app locally.
 
 ### Issues 
 
